@@ -19,3 +19,8 @@ import numpy as np
 import tensorflow as tf
 from six.moves import urllib
 from six.moves import xrange
+
+url = 'http://mattmahoney.net/dc/'
+
+def download_if_not_present(filename, expected_bytes):
+        local_filename = os.path.join()
