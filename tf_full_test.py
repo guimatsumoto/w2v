@@ -44,12 +44,12 @@ word2vec = tf.load_op_library(os.path.join(os.path.dirname(os.path.realpath(__fi
 
 flags = tf.app.flags
 
-flags.DEFINE_string("save_path", None, "Directory to write the model and "
+flags.DEFINE_string("save_path", "~/Desktop/ENSTA/KITE/w2v", "Directory to write the model and "
                     "training summaries.")
-flags.DEFINE_string("train_data", None, "Training text file. "
+flags.DEFINE_string("train_data", "text8", "Training text file. "
                     "E.g., unzipped file http://mattmahoney.net/dc/text8.zip.")
 flags.DEFINE_string(
-    "eval_data", None, "File consisting of analogies of four tokens."
+    "eval_data", "questions-words.txt", "File consisting of analogies of four tokens."
     "embedding 2 - embedding 1 + embedding 3 should be close "
     "to embedding 4."
     "See README.md for how to get 'questions-words.txt'.")

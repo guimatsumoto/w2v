@@ -269,7 +269,7 @@ def plot_with_labels(low_dim_embs, labels, filename):
                  textcoords='offset points',
                  ha='right',
                  va='bottom')
-  plt.hold()
+  plt.hold(True)
   plt.savefig(filename)
 
 try:
