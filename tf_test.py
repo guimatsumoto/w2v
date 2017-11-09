@@ -240,6 +240,18 @@ with tf.Session(graph=graph) as session:
         print(log_str)
   final_embeddings = normalized_embeddings.eval()
 
+# test
+  sim = similarity.eval()
+  valid_word = 'table'
+  valid_index = dictionary[valid_word]
+  top_k = 8  # number of nearest neighbors
+  nearest = (-sim[valid_index, :]).argsort()[1:top_k + 1]
+  log_str = 'Nearest to %s:' % valid_word
+  for k in xrange(top_k):
+    close_word = reverse_dictionary[nearest[k]]
+    log_str = '%s %s,' % (log_str, close_word)
+  print(log_str)
+
 # Step 6: Visualize the embeddings.
 
 
@@ -257,7 +269,7 @@ def plot_with_labels(low_dim_embs, labels, filename):
                  textcoords='offset points',
                  ha='right',
                  va='bottom')
-
+  plt.hold()
   plt.savefig(filename)
 
 try:
