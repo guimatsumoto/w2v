@@ -2,6 +2,7 @@ import sys
 import spotipy
 import spotipy.util as util
 import json
+import codecs
 
 scope = 'user-library-read'
 
@@ -17,19 +18,21 @@ else:
 token = util.prompt_for_user_token(username,scope,client_id='0acd1f153b25428fa508c8283aa590d2',client_secret='27e270a880f640a09ccaa2494208e5cc',redirect_uri='http://google.es')
 
 def generate_dataset(name,n_limit,dicti):
-	with open('results.txt', 'w') as the_file:
+	with codecs.open('results.txt', 'w', encoding='utf-8') as the_file:
 		stack = []
 		ide = get_id_with_name(name)
 		dicti[ide] = name
 		artist_id,names = get_related_artists_id_with_artist(ide)
 		for a in range(len(artist_id)):
 			dicti[artist_id[a]] = names[a]
-		the_file.write(generate_related_artists_string(ide,artist_id,2))
+		the_file.write(generate_related_artists_string(ide,artist_id,100))
 		stack.extend(artist_id)
 		stack = list(set(stack))
 		artists_already_processed = []
 		artists_already_processed.append(ide)
 		for i in range(n_limit-1):
+			if i%20 == 0:
+				token = util.prompt_for_user_token(username,scope,client_id='0acd1f153b25428fa508c8283aa590d2',client_secret='27e270a880f640a09ccaa2494208e5cc',redirect_uri='http://google.es')
 			if len(stack) == 0:
 				break
 			ide = stack.pop()
@@ -39,11 +42,11 @@ def generate_dataset(name,n_limit,dicti):
 			for a in range(len(artist_id)):
 				dicti[artist_id[a]] = names[a]
 			artists_already_processed.append(ide)
-			the_file.write(generate_related_artists_string(ide,artist_id,2))
+			the_file.write(generate_related_artists_string(ide,artist_id,100))
 			stack.extend(artist_id)
 			stack = list(set(stack))
 
-	with open('dictionaire.txt', 'wb') as the_file:
+	with codecs.open('dictionaire.txt', 'wb',encoding='utf-8') as the_file:
 		for key, value in dicti.iteritems():
 			the_file.write(key + " " + value + "\n")
 
@@ -82,7 +85,7 @@ if token:
 	sp = spotipy.Spotify(auth=token)
 	name = 'drake'
 	dicti = {}
-	generate_dataset(name,10,dicti)
+	generate_dataset(name,1500,dicti)
 	#print ide
 	
 	#artists = sp.artist_related_artists(ide)
