@@ -9,10 +9,10 @@ scope = 'user-library-read'
 #token = util.prompt_for_user_token(username,scope,client_id='0acd1f153b25428fa508c8283aa590d2',client_secret='27e270a880f640a09ccaa2494208e5cc',redirect_uri='your-app-redirect-url')
 
 if len(sys.argv) > 1:
-    username = sys.argv[1]
+	username = sys.argv[1]
 else:
-    print "Usage: %s username" % (sys.argv[0],)
-    sys.exit()
+	print("Usage: %s username" % (sys.argv[0],))
+	sys.exit()
 
 #token = util.prompt_for_user_token(username, scope)
 token = util.prompt_for_user_token(username,scope,client_id='0acd1f153b25428fa508c8283aa590d2',client_secret='27e270a880f640a09ccaa2494208e5cc',redirect_uri='http://google.es')
@@ -47,7 +47,7 @@ def generate_dataset(name,n_limit,dicti):
 			stack = list(set(stack))
 
 	with codecs.open('dictionaire.txt', 'wb',encoding='utf-8') as the_file:
-		for key, value in dicti.iteritems():
+		for key, value in dicti.items():
 			the_file.write(key + " " + value + "\n")
 
 
@@ -92,6 +92,6 @@ if token:
 	#print json1
 
 else:
-    print "Can't get token for", username
+	print("Can't get token for", username)
 
 

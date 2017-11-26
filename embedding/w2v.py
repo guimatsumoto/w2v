@@ -50,9 +50,9 @@ word2vec = tf.load_op_library(os.path.join(os.path.dirname(os.path.realpath(__fi
 
 flags = tf.app.flags
 
-flags.DEFINE_string("save_path", "tmp/", "Directory to write the model and "
+flags.DEFINE_string("save_path", "tmp_spo/", "Directory to write the model and "
                     "training summaries.")
-flags.DEFINE_string("train_data", "text8", "Training text file. "
+flags.DEFINE_string("train_data", "../datasets/results.txt", "Training text file. "
                     "E.g., unzipped file http://mattmahoney.net/dc/text8.zip.")
 flags.DEFINE_string(
     "eval_data", "questions-words.txt", "File consisting of analogies of four tokens."
@@ -61,7 +61,7 @@ flags.DEFINE_string(
     "See README.md for how to get 'questions-words.txt'.")
 flags.DEFINE_integer("embedding_size", 200, "The embedding dimension size.")
 flags.DEFINE_integer(
-    "epochs_to_train", 15,
+    "epochs_to_train", 5,
     "Number of epochs to train. Each epoch processes the training data once "
     "completely.")
 flags.DEFINE_float("learning_rate", 0.2, "Initial learning rate.")
@@ -96,7 +96,7 @@ flags.DEFINE_integer("checkpoint_interval", 600,
                      "Checkpoint the model (i.e. save the parameters) every n "
                      "seconds (rounded up to statistics interval).")
 flags.DEFINE_boolean(
-    "use", True,
+    "use", False,
     "If true, loads previously saved model. Typically used with interactive.")
 
 
@@ -555,7 +555,7 @@ def main(_):
       model.read_analogies() # Read analogy questions
     for _ in xrange(opts.epochs_to_train):
       model.train()  # Process one epoch
-      model.eval()  # Eval analogies.
+      #model.eval()  # Eval analogies.
     # Perform a final save.
     model.saver.save(session,
                      os.path.join(opts.save_path, "model.ckpt"),
