@@ -96,7 +96,7 @@ flags.DEFINE_integer("checkpoint_interval", 600,
                      "Checkpoint the model (i.e. save the parameters) every n "
                      "seconds (rounded up to statistics interval).")
 flags.DEFINE_boolean(
-    "use", False,
+    "use", True,
     "If true, loads previously saved model. Typically used with interactive.")
 
 
@@ -518,7 +518,7 @@ def use(opts):
     model = Word2Vec(opts, session)
     # Perform a final save.
     model.saver.restore(session,
-                        os.path.join(opts.save_path + "model.ckpt-70752380"))
+                        os.path.join(opts.save_path + "model.ckpt-11136283"))
     if FLAGS.interactive:
       # E.g.,
       # [0]: model.analogy('france', 'paris', 'russia')
