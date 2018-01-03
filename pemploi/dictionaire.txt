@@ -1,0 +1,1472 @@
+120130 Accueillir une clientèle
+119250 Archiver des dossiers et documents de référence
+121877 Classer les documents, informations et fonds documentaires d'une activité
+123567 Indexer des dossiers et documents de référence
+121270 Mettre à jour une documentation technique
+120722 Planifier des rendez-vous
+120992 Réaliser la gestion administrative du courrier
+124377 Réaliser une gestion administrative
+124156 Saisir des documents numériques
+126141 Baliser les zones glissantes
+104167 Caractéristiques des produits d'entretien
+124543 Entretenir des locaux
+124547 Nettoyer du matériel ou un équipement
+122706 Préparer le matériel adapté
+107662 Accompagner la personne dans les gestes de la vie quotidienne
+107661 Réaliser des soins d'hygiène corporelle, de confort et de prévention
+107920 Réaliser pour la personne des courses, la préparation des repas, des formalités administratives, ...
+107923 Suivre l'état de santé de la personne, relever les modifications de comportement, états dépressifs, ... et informer les interlocuteurs concernés (famille, médecin, ...)
+124966 Préparer des sandwichs
+100341 Procédures d'encaissement
+104226 Renseigner le client sur la composition des produits (salades, sandwichs, ...) et enregistrer sa commande
+124919 Cuire des viandes, poissons ou légumes
+104227 Préparer des plats simples (salades, assiette de crudités, de fromages, desserts, ...)
+118933 Analyser les données socio-économiques d'un territoire
+118949 Apporter un appui à des partenaires institutionnels
+118937 Elaborer un projet de développement local
+118942 Identifier de nouveaux axes d'intervention
+118938 Participer à l'élaboration d'un projet de développement local
+110097 Codifier la marchandise à partir du descriptif fourni par le client
+110098 Collecter les documents d'expédition de la marchandise et constituer le dossier de la prestation (transit, douane)
+124798 Conseiller un client sur la circulation internationale des marchandises
+110099 Réaliser et contrôler les documents liés à la circulation internationale de la marchandise (facture douanière, Déclaration Administrative Unique -DAU-, lettre de crédit, ...)
+110100 Suivre l'acheminement des marchandises, informer le client sur le déroulement et présenter des solutions en cas d'anomalies
+125246 Entretenir une surface, un sol
+108689 Renseigner les supports de suivi (horaire, lieu, ...) et informer l'interlocuteur concerné des anomalies constatées
+120327 Analyser les processus métier
+120324 Définir des solutions fonctionnelles
+113547 Définir la faisabilité et la rentabilité d'un projet
+120325 Présenter les évolutions du système d'information au commanditaire
+120326 Recenser les besoins du commanditaire
+123540 Concevoir le schéma d'organisation d'une activité logistique
+119000 Gestion des stocks et des approvisionnements
+110113 Suivre la mise en place et la réalisation des plans d'action logistiques et contrôler la conformité d'application
+125304 Superviser l'acheminement de produits
+125305 Synchroniser les activités logistiques avec le cahier des charges
+103890 Concevoir la séance d'animation et préparer le matériel et l'espace d'animation
+103892 Guider les participants lors de la réalisation de l'activité ou proposer des adaptations selon leur progression
+103894 Réaliser le bilan du projet d'animation et proposer des axes d'évolution
+103848 Techniques d'animation de groupe
+121493 Appliquer des gammes de peintures, vernis, enduits ou laques
+123621 Contrôler une installation électrique
+106659 Diagnostiquer une panne sur une installation (éclairage, chauffage, sanitaires)
+122214 Préparer un support à enduire
+106661 Réparer ou remplacer les poignées, vitres, rails, ... de portes, fenêtres, ...
+107660 Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier
+116410 Repérer les modifications d'état du patient
+107659 Surveiller l'état général du patient/résident, lui distribuer les médicaments et informer l'infirmier des manifestations anormales ou des risques de chutes, escarres, ...
+102096 Règles d'hygiène et de propreté
+119339 Appréciation sensorielle
+123793 Contrôler l'état de conservation d'un produit périssable
+119683 Définir les données de programmation
+124548 Entretenir un poste de travail
+113245 Normes qualité
+100262 Procédures de nettoyage et de désinfection
+120277 Régler les paramètres des machines et des équipements
+101506 Règles et consignes de sécurité
+104855 Surveiller le fonctionnement des machines et des équipements et effectuer des interventions simples en cas d'incident
+122435 Système Hazard Analysis Critical Control Point  (HACCP)
+121621 Actualiser des outils de formation / pédagogiques
+121620 Concevoir des outils de formation / pédagogiques
+122898 Définir les méthodes et outils pédagogiques d'une formation
+123128 Encadrer des stagiaire dans leurs missions
+117532 Disposer des produits sur le lieu de vente
+121698 Proposer un service, produit adapté à la demande client
+123792 Retirer un produit impropre à la vente
+101716 Chaîne du froid
+117482 Conditionner un produit
+102068 Encaisser le montant d'une vente
+101767 Modes de conservation des produits alimentaires
+124961 Préparer des boissons chaudes ou froides
+104259 Préparer des salades
+104236 Préparer et/ou réchauffer des pains
+121921 Ranger une réserve
+104262 Réaliser la plonge
+115554 Réceptionner et contrôler des produits (quantité, conformité, état, ...)
+104230 Remettre la commande au client (service à l'assiette, emballage à emporter, plateau, ...)
+126388 Contrôler l'application des procédures d'hygiène et sécurité
+101370 Définir une stratégie commerciale
+122899 Déterminer les objectifs commerciaux du personnel d'encadrement
+122534 Mettre en oeuvre une stratégie commerciale
+119630 Superviser la gestion d'une entité commerciale
+122906 Déterminer les résultats quotidiens par produit, ligne de produits
+121428 Effectuer le règlement et la livraison de titres financiers
+122907 Etablir les courbes d'évolution de produits financiers
+123886 Paramétrer des outils de gestion des opérations de marché
+124967 Vérifier des enregistrements comptables d'opérations de marché
+104304 Prendre la commande des clients
+124962 Réaliser un service au bar
+101901 Accueillir le client et l'installer
+124963 Réaliser un service en salle
+116711 Contrôler l'état du matériel
+123782 Contrôler la conformité du matériel d'intervention
+119936 Implanter une zone de chantier
+125181 Monter un échafaudage
+121159 Sécuriser une zone de chantier
+123775 Assembler les éléments d'un engin ou d'un matériel
+119210 Assurer une maintenance de premier niveau
+106362 Circuits hydrauliques
+124051 Déterminer une solution de remise en état d'un équipement
+120406 Engins de chantier (CACES R 372)
+120408 Grues auxiliaires de chargement de véhicules (CACES R 390)
+107036 Intervenir sur un moteur à Gaz de Pétrole Liquéfié (GPL)
+107033 Intervenir sur un moteur diesel
+104547 Pneumatique
+125816 Réaliser une opération de maintenance
+121565 Réparer les organes mécaniques défectueux
+106840 Configurer le poste de travail aux besoins de l'utilisateur et effectuer les tests de fonctionnement
+106836 Diagnostiquer à distance un dysfonctionnement informatique matériel ou logiciel
+106838 Guider l'utilisateur pour résoudre le dysfonctionnement ou prendre le contrôle du système à distance
+124813 Identifier des ressources nécessaires à la résolution d'un dysfonctionnement
+102694 Renseigner les supports de suivi d'intervention et transmettre les informations au service concerné
+121420 Contacter un client ou un prospect
+121646 Enregistrer les données d'une commande
+126123 Gérer des appels sortants
+119077 Logiciels de gestion d'appels téléphoniques
+121467 Marketing téléphonique
+121421 Présenter des produits et services
+101343 Principes de la relation client
+121706 Techniques commerciales
+122484 Vérifier la disponibilité d'un produit
+122213 Installer des équipements de chauffage
+122970 Poser des éléments sanitaires
+121605 Poser des tuyauteries
+123695 Réaliser des travaux de raccordement aux appareils de chauffage et éléments sanitaires
+113669 Réaliser un diagnostic de panne ou de dysfonctionnement d'installation
+103927 Concevoir la séance selon le niveau du public et préparer le matériel ou les équipements
+103926 Evaluer le niveau de départ du pratiquant et déterminer les objectifs sportifs
+103885 Gestes d'urgence et de secours
+103925 Informer le public sur la pratique de la discipline sportive et les modalités d'organisation des séances
+103934 Intervenir auprès d'un public d'adultes
+103935 Intervenir auprès d'un public d'enfants
+100091 Normes de sécurité des espaces et des établissements recevant du public
+125439 Organiser des évènements sportifs
+103928 Présenter l'exercice aux pratiquants et apporter un appui technique
+103929 Réaliser le suivi du matériel ou des équipements sportifs
+103872 Règles de sécurité des biens et des personnes
+104288 Surveiller les lieux, les biens et effectuer des rondes de prévention et de détection de risques
+104174 Accueillir les clients à leur arrivée et effectuer les formalités administratives liées à leur séjour
+104292 Enregistrer les réservations et actualiser le planning d'occupation des chambres, des appartements, des bungalows, ...
+117666 Etablir une facture
+104173 Renseigner le client sur les prestations de l'établissement et les modalités de réservation
+104293 Répondre aux demandes des clients durant leur séjour
+123048 Evaluer la conduite d'un élève
+124590 Évaluer le nombre d'heure de code, de conduite ou de pilotage
+123191 Former à la conduite d'un véhicule
+108568 Règles de conduite et de sécurité routière
+124589 Renseigner sur le déroulement des cours
+118637 Analyser les besoins du client
+118023 Coordonner les différentes étapes d'un projet
+104376 Elaborer des solutions techniques et financières
+121657 Négocier des solutions techniques ou financières avec un client
+113325 Piloter un projet
+117019 Contrôler l'application des méthodes et procédures de contrôle comptable
+119405 Définir des procédures de contrôle comptable
+120889 Gestion administrative
+120888 Gestion comptable
+117020 Proposer des améliorations des méthodes et procédures de contrôle comptable
+107371 Accompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne et des règles de vie en collectivité
+107368 Accueillir l'enfant et le guider à son arrivée dans la structure
+107369 Préparer et donner le repas, la prescription médicale à l'enfant
+107370 Réaliser les soins et signaler les modifications de l'état de santé de l'enfant aux puéricultrices, aux parents, ...
+119106 Réaliser un suivi d'activité
+107353 Accueillir et renseigner le patient sur les horaires de réception, les possibilités de rendez-vous, le déroulement de l'examen
+107201 Actualiser le dossier médical du patient
+123899 Organiser le planning des activités
+124388 Réaliser des démarches médico administratives
+124221 Tenir à jour les dossiers médico-administratifs des patients
+120697 Assurer un accueil téléphonique
+121711 Etudier une demande client
+121288 Orienter les personnes selon leur demande
+113818 Réaliser des travaux de reprographie
+104107 Système d'information et de communication
+122330 Renseigner un client
+121228 Contrôler le balisage et l'étiquetage des produits en rayon
+121230 Réaliser le balisage et l'étiquetage des produits en rayon
+117547 Réceptionner un produit
+119851 Vérifier la conformité de la livraison
+102318 Définir le plan d'action commercial et établir le plan de tournée (ciblage, interlocuteurs, préparation de dossiers techniques)
+122709 Etablir un contrat de vente
+117243 Etablir un devis
+117180 Négocier un contrat
+122460 Suivre la réalisation d'une prestation technique
+104405 Calculer et définir les puissances, grandeurs, contraintes physiques de composants, sous-ensembles, ensembles
+104408 Constituer et faire évoluer les nomenclatures des plans, dossiers de définition
+104407 Réaliser et faire évoluer les schémas, les plans de détails, de sous-ensembles ou d'ensembles
+122338 Administrer une vente E-commerce
+120769 Alimenter des réseaux sociaux
+102445 Analyser des dysfonctionnements et des difficultés techniques de connexion au site ou d'utilisation des services par les internautes
+123673 Appliquer les règles de diffusion de l'information et de la communication
+118625 Conseiller des internautes par téléphone
+113851 Contrôler la réalisation de pages Web
+122597 Définir les contenus et rubriques d'un site web
+120575 Mettre en oeuvre des règles de diffusion, de communication de l'information et de contenu d'un site
+121341 Participer au développement d'un site web
+120596 Réaliser des enquêtes et des sondages en ligne
+113850 Réaliser la mise à jour du site à l'aide d'une interface d'administration
+119699 Réaliser le suivi d'une commande
+124906 Traiter les demandes d'internautes
+102725 Concevoir la mise en page et enrichir le document (intégration texte, image, correction, ...) selon les règles typographiques et la charte graphique
+125662 Réaliser des éléments graphiques de composition à l'aide d'outils graphiques informatiques
+125294 Traduire un concept ou un script en représentation visuelle
+125979 Traiter des images numériques (colorimétrie, cadrage etc.)
+104535 Concevoir les spécifications de l'installation automatisée en fonction du cahier des charges
+104536 Réaliser l'analyse fonctionnelle de l'installation et la décliner en un programme d'automatisation
+104539 Réaliser les dossiers d'équipement de l'installation automatisée (plan, schémas, notices d'exploitation, ...)
+104537 Saisir la réinitialisation ou la modification du programme d'automatisation et le transférer vers un automate programmable
+104540 Vérifier le programme d'automatisation par une série de tests sur plate-forme d'essais, en atelier, sur site
+109607 Accueillir les personnes
+119855 Agencer un espace de vente
+125971 Définir des besoins en approvisionnement
+101359 Droit commercial
+100343 Législation sociale
+121250 Merchandising / Marchandisage
+121632 Organiser une unité de vente
+119860 Préparer les commandes
+117468 Réaliser la mise en rayon
+117548 Stocker un produit
+116932 Suivre l'état des stocks
+100340 Techniques de vente
+125802 Valoriser un produit
+107738 Réaliser les soins infirmiers, communiquer avec le patient (ressenti, douleur, ...) et actualiser le dossier de soins infirmiers (incidents, modifications d'état clinique, ...)
+107740 Réaliser ou contrôler les soins d'hygiène, de confort et apporter une aide au patient (lever, marche, soins post opératoires...)
+107739 Surveiller l'état clinique du patient (constantes, fonctions d'élimination, comportement, ...) et informer l'équipe soignante/médicale sur l'évolution de l'état clinique
+107736 Cerner l'état du patient (clinique, psychologique) et consigner les informations recueillies dans le dossier médical
+107737 Organiser le plan de soins infirmiers selon les besoins des patients et préparer le chariot de soins ou la trousse médicale
+124810 Caractéristiques des dossiers de maintenance
+124809 Caractéristiques des dossiers techniques
+124808 Identifier des modalités d'intervention
+106696 Réparer l'installation par le remplacement et la remise en état des dispositifs électriques, électroniques, mécaniques, pneumatiques, hydrauliques
+124101 Approvisionner un chariot de ménage/chariot de linge
+104160 Changer les draps, refaire le lit (mise à blanc, recouche) et remplacer le linge de toilette
+124335 Désinfecter et décontaminer un équipement
+107948 Dépoussiérer les sols, les tapis, les meubles, les objets et aérer, désodoriser les pièces
+120699 Entretenir le linge de maison et les vêtements de la personne
+124545 Entretenir un espace de vente
+100016 Gestes et postures de manutention
+118366 Produits de boulangerie
+126444 Ranger du matériel
+113713 Réaliser l'emballage de produits frais (entiers, en tranches, ...) pour le rayon libre-service ou pour des commandes (petits fours, buffet, ...)
+100359 Règles d'hygiène et de sécurité alimentaire
+122183 Vendre des produits ou services
+121044 Actualiser les systèmes d'information en fonction des évolutions
+122722 Optimiser des modes opératoires
+122252 Administrer des dossiers individuels de salariés
+119320 Concevoir des supports de suivi et de gestion
+119437 Logiciels de paie
+124607 Réaliser des déclarations réglementaires
+121299 Brevet pour l'Exercice de la Profession d'Enseignant de la Conduite Automobile et de la Sécurité Routière (BEPECASER)
+100090 Techniques pédagogiques
+123327 Appliquer les mesures correctives
+124081 Contrôler un produit fini
+124396 Détecter un dysfonctionnement
+124888 Entretenir des équipements
+106029 Identifier les phases d'usinage et les cotes de réglages (tolérances, positions, états de surfaces, ...) de la pièce et des outils
+103070 Lecture de plan, de schéma
+104424 Mécanique productique
+100017 Règles de sécurité
+119684 Surveiller le déroulement de l'usinage
+106033 Utilisation d'abaques
+106662 Vérifier et entretenir l'installation sanitaire, de chauffage central et de production d'eau chaude
+119072 Gérontologie
+107443 Intervenir auprès de personnes âgées
+107674 Pathologies du vieillissement
+104050 Organisation de la chaîne de transport national et international
+104663 Réglementation des douanes
+102316 Réglementation du commerce international (Incoterms, ...)
+108517 Concevoir et préparer les cours, les travaux dirigés ou pratiques (définition, contenu, objectifs, format pédagogique, bibliographie, ...)
+108518 Encadrer, animer les cours, les travaux dirigés ou pratiques et enseigner les connaissances, les techniques aux étudiants
+108519 Evaluer les connaissances des étudiants et effectuer la correction de devoirs, examens, partiels
+100541 Techniques de communication
+121281 Analyser la situation financière d'un client
+122254 Définir les besoins d'un client
+118870 Etablir le bilan patrimonial d'un client
+124291 Réaliser une étude patrimoniale
+124292 Renseigner les usagers et les conseillers dans leurs démarches juridiques et fiscales
+120708 Etablir des déclarations fiscales et sociales
+120694 Gestion de la paie
+120886 Logiciels comptables
+123957 Prépaper les éléments constitutifs d'un mandatement
+120709 Enregistrer des opérations comptables
+121168 Couper les éléments de fermetures menuisées
+124331 Démonter une fermeture menuisée et vérifier l'état du support
+123243 Fixer des éléments menuisés
+117414 Méthodes de contrôle d'étanchéité
+117139 Codifier une facture
+117140 Codifier un mandat
+117141 Codifier un titre
+117136 Saisir les factures
+121280 Réceptionner les appels téléphoniques
+107663 Distribuer les repas et collations au patient/résident selon les besoins ou la prescription médicale
+107658 Informer le patient/résident sur les modalités de séjour dans le service (installation en chambre, horaires de visite, ...), le mode d'intervention à domicile
+103592 Réaliser l'étanchéité de l'ensemble support/châssis et poser les mousses de polyuréthane, joints, bandes adhésives, cornières, ...
+122020 Mettre à jour les fichier des assurés et tiers
+122021 Transmettre des documents contractuels à des clients
+121009 Proposer des solutions correctives
+124537 Vérifier les conditions de réalisation d'une commande
+123330 Acheminer des marchandises en zone d'expédition, de stockage ou de production
+119849 Charger des marchandises, des produits
+110040 Lecture de plan de stockage
+110036 Réaliser le prélèvement de produits selon les instructions de préparation de commande et constituer les colis, lots, ...
+110038 Renseigner les supports de suivi de commande et transmettre un état des produits détériorés et du matériel défectueux
+101829 Utilisation d'engins de manutention non motorisés (transpalette, diable, ...)
+116892 Superviser le recrutement du personnel
+109565 Analyser les besoins de l'entreprise en formation, en recrutement et en mobilité professionnelle
+119735 Conseiller une structure dans sa gestion des ressources humaines
+123624 Contrôler la conformité d'un produit
+115860 Définir et réaliser des programmes de fabrication (commandes numériques, centres d'usinage, automates, ...)
+105747 Détecter les dysfonctionnements relatifs aux produits, outils de production et informer le service maintenance
+105742 Sélectionner ou vérifier les recettes et programmes de fabrication, selon les caractéristiques du produit (cartes, puces, circuits imprimés, ...)
+104854 Surveiller l'approvisionnement des machines, des installations et le flux des matières ou des produits
+114757 Concevoir l'implantation de composants à l'intérieur d'un appareil, d'un équipement (armoire, tableau)
+124200 Habilitations électriques de travaux hors tension
+123272 Positionner des fils électriques sur un support
+123273 Préparer des fils électriques
+123271 Réaliser une connexion électrique
+105730 Sélectionner les câbles et les disjoncteurs, contacteurs, fusibles, ... à partir du schéma électrique, du plan de câblage ou de la puissance des appareils
+100507 Utilisation d'outillages électroportatifs (scie électrique, ponceuse, ...)
+124201 Habilitations électriques de travaux sous tension
+121398 Analyser des problèmes techniques
+109846 Concevoir et développer les programmes et applications informatiques
+113317 Développer une application en lien avec une base de données
+117309 Etablir un cahier des charges
+121055 Déterminer des mesures correctives
+122596 Concevoir des outils de pilotage
+123863 Déterminer des actions correctives
+119850 Animer une vente
+100381 Argumentation commerciale
+118085 Beauté et cosmétiques
+121902 Installer un stand et des produits de démonstration
+122188 Présenter un produit à des clients potentiels
+118120 Produits d'hygiène et de parfumerie
+122162 Proposer une dégustation à des clients
+122374 Réaliser le compte rendu d'une animation commerciale
+122144 Contrôler des produits de démonstration
+122145 Vérifier le réassort d'un rayon
+120146 Conseiller une clientèle ou un public
+122186 Définir les modalités d'une vente avec un client
+121759 Effectuer une démonstration devant un client ou un public
+117344 Elaborer des propositions commerciales
+104359 Déterminer les solutions et préconisations techniques et les communiquer aux clients
+104357 Informer les clients des problèmes techniques relevés et des modifications et réparations à apporter
+113835 Superviser un service d'assistance en ligne
+103043 Cahier des Clauses Techniques Particulières -CCTP-
+119672 Conception et Dessin Assistés par Ordinateur (CAO/DAO)
+125922 Concevoir un dossier de présentation de projet
+122110 Consulter des entrepreneurs potentiels pour le compte d'un client
+122764 Définir un avant-projet
+100514 Dessin de détail
+125070 Dessiner des aménagements et agencements intérieurs
+118749 Dessin technique
+122891 Déterminer les conditions de réalisation d'un projet
+101640 Droit de l'urbanisme et de la construction
+122111 Identifier des intervenants pour le compte d'un client
+121247 Normes de construction et démolition de bâtiment
+103045 Normes de la construction
+100643 Tracé de croquis
+125815 Conseiller un client
+119945 Identifier les besoins d'un client
+120526 Mettre en place des actions de prospection
+119848 Décharger des marchandises, des produits
+114765 Déplacer des produits vers la zone de stockage
+110069 Trier et répartir les colis, marchandises selon les indications (codification, format, poids, nombre, ...)
+125492 Définir le périmètre d'une zone d'intervention
+107957 Laver des vitres
+116710 Préparer le matériel
+120683 Collaborer avec l'ensemble des intervenants à la réalisation d'un objectif commun
+121851 Conduire un entretien de vente
+122198 Effectuer le suivi d'une relation client
+121850 Entretien de vente
+121417 Méthodes de plan de prospection
+121418 Méthodes de plan de tournée
+102226 Normes rédactionnelles
+122552 Prospection commerciale
+104323 Accueillir le client à son arrivée au restaurant, l'installer à une table et lui présenter la carte
+104324 Conseiller le client dans ses choix de plats selon ses goûts, les suggestions du jour et prendre sa commande
+117933 Dresser les tables
+117932 Réaliser la mise en place de la salle et de l'office
+118975 Outils bureautiques
+122339 Réaliser une étude technique et commerciale
+124240 Réaliser un suivi des dossiers clients, fournisseurs
+124788 Suivre des éléments de paiement de commandes
+122477 Transmettre des données techniques et commerciales
+121063 Planifier un processus de fabrication
+124220 Concevoir des supports de communication visuelle
+124219 Concevoir un support de communication audiovisuel
+125449 Planifier la réalisation d'une action de communication
+124401 Réaliser des actions de relation publique, de diffusion et de promotion de l'information
+123967 Rédiger le contenu d'un support de communication
+107834 Analyser la situation et les besoins de la personne
+123910 Définir un projet d'accompagnement social avec la personne
+123916 Orienter une personne vers des partenaires relais
+125854 Renseigner un public, des usagers
+104421 Etudier et concevoir des pièces, sous-ensembles ou ensembles
+104419 Identifier la demande et réaliser les ébauches, schémas de pièces, systèmes, sous-ensembles ou ensembles
+104420 Réaliser les relevés dimensionnels de pièces, sous-ensembles ou ensembles
+116934 Etablir une commande
+126384 Nettoyer, désinfecter et ranger la chambre et l'installation sanitaire
+107327 Vérifier le contenu du chariot de ménage et procéder à la préparation des solutions de nettoyage
+124180 Déclencher un réapprovisionnement
+122473 Décoder une feuille de service
+104163 Identifier et signaler les dysfonctionnements, les dégradations du mobilier et des équipements de la chambre
+121268 Actualiser les informations mises à la disposition d'un public
+122217 Analyser l'évolution des loyers
+121368 Analyser une demande de location
+101639 Droit immobilier
+116974 Droits et obligations du locataire
+121369 Gérer un planning de vacances de logements
+122202 Gestion immobilière
+117785 Logiciels  immobiliers
+121370 Proposer l'attribution de logements
+118871 Réaliser un état des lieux
+118873 Réaliser un suivi administratif du recouvrement des loyers et charges
+108822 Recueillir et traiter les réclamations d'usagers, clients, résidents, ...
+102405 Techniques de mise en rayon
+105935 Dimensionner et mettre en forme les pièces, éléments mécaniques par usinage, formage, ... et vérifier leur conformité
+105937 Effectuer le métrage et la mise au point de systèmes, équipements mécaniques et outils de production (moule, outillage...)
+105938 Identifier les défauts, les dysfonctionnements et procéder aux modifications, réajustements
+105933 Identifier les phases d'ajustage et de montage d'éléments, systèmes, ensembles mécaniques à partir du dossier technique ou du modèle
+105936 Réaliser les ajustements et les finitions et assembler les éléments et les sous-ensembles mécaniques
+103309 Manoeuvrer l'engin en fonction du terrain (nature du sol, dénivelé, risques électriques, ...) et de la circulation sur le chantier
+116733 Procédures d'entretien d'engins
+103308 Surveiller et contrôler le chargement des matériaux (répartition, poids, ...) par rapport aux spécificités de l'engin
+120405 Utiliser un engin nécessitant une habilitation
+126364 Vérifier le fonctionnement d'un engin
+121713 Définir les besoins en assurance d'un client
+121427 Développer un portefeuille clients et prospects
+117240 Rassembler les justificatifs et transmettre la proposition d'assurance  pour décision
+121164 Rédiger un contrat d'assurance
+123012 Analyser la recevabilité d'une demande de crédit
+117682 Collecter des données clients
+101512 Emettre un avis / une décision argumentés en fonction de la délégation en charge et élaborer la note de synthèse
+122000 Appliquer des produits phytosanitaires
+119470 Caractéristiques des fruits à noyaux
+122720 Installer un dispositif d'irrigation sur une plantation
+122719 Installer un élément de protection sur une plantation
+122727 Planter un arbre ou un cep (arrachage, greffe, palissage, ...)
+122825 Réaliser l'entretien et les soins d'un arbre ou d'un cep
+102695 Réaliser la maintenance de premier niveau des machines et équipements
+122853 Récolter un produit à maturité selon les consignes de calibrage
+123051 Surveiller le développement d'un fruit ou un légume
+123054 Tailler un arbre ou un cep
+122827 Techniques d'ébourgeonnage
+122828 Techniques d'effeuillage
+100039 Techniques de soins aux arbres ou ceps
+122826 Techniques de taille de fructification
+121117 Réaliser des opérations de sourcing
+124655 Sélectionner des candidats pour un poste
+107775 Techniques de conduite d'entretien
+104098 Techniques de recrutement
+122930 Développer des partenariats avec des écoles et universités
+116573 Boucherie
+118018 Découper de la viande
+120224 Détailler des pièces de viande
+101718 Techniques de désossage
+101719 Techniques de parage des viandes
+118741 Evaluer des fournisseurs, sous-traitants, prestataires
+117166 Identifier des fournisseurs, sous-traitants, prestataires
+121665 Négocier des prix
+117371 Assembler les éléments de l'équipement
+125415 Connecter une boîte de raccordements
+117370 Identifier les matériels à intégrer
+106761 Installer l'équipement sur le site et le connecter aux réseaux extérieurs
+106764 Remettre les systèmes en état de fonctionnement par échange standard ou réfection d'ensemble ou de sous-ensemble
+124629 Entretenir un outil ou matériel
+124811 Identifier des contraintes dimensionnelles, fonctionnelles et physiques
+124933 Doser des ingrédients culinaires
+124947 Éplucher des légumes et des fruits
+124934 Mélanger des produits et ingrédients culinaires
+104207 Préparer les viandes et les poissons (brider, barder, vider, trancher, ...)
+108842 Contrôler la conformité d'entrée et de sortie de personnes et de biens
+108846 Renseigner les supports d'intervention et d'activité (rapports, mains courantes, registres de sécurité, déclaration, ...)
+108844 Repérer les anomalies, incidents et informer les forces de l'ordre et les clients
+108843 Vérifier les accès, les lieux (fermeture, présence d'objets, de personnes, ...), les équipements et les systèmes de sécurité et de prévention
+121951 Approvisionner des engins d'exploitation
+105193 Monter les pièces et les sous-ensembles des articles textiles par piquage selon les fiches techniques
+105192 Positionner les pièces en fonction des repères pour l'assemblage/montage de l'article
+105201 Réaliser des opérations de garnissage (plumes, ouate, ...) sur des articles textiles
+101199 Sélectionner les matériaux (tissus, fils, ornements, ...), coloris et outils appropriés à l'ouvrage
+104980 Sélectionner les outils (lames de scie, couteaux, ...), les monter et les régler (position, tension, ...)
+105194 Vérifier le tracé et la tension de piqûre, procéder aux réparations nécessaires et évacuer les articles non-conformes
+123893 Analyser le contexte de vie d'une personne
+107915 Identifier les modifications de l'état de la personne et en informer l'équipe soignante
+107913 Présenter à la personne les activités d'aide ou d'éveil et définir les modalités de mise en oeuvre et d'accompagnement
+124015 Débarrasser une table
+124014 Nettoyer une salle de réception
+117170 Coordonner les prestataires, fournisseurs, intervenants
+120648 Planifier l'activité du personnel
+123640 Présenter le chantier à un intervenant
+110074 Réaliser l'étiquetage
+110072 Repérer et signaler les produits détériorés ou manquants
+124807 Identifier les caractéristiques de marchandises
+110034 Modalités de chargement/déchargement de marchandises
+125824 Réaliser une opération de manutention
+125670 Procéder à la préparation d'un évènement artistique (coiffure, maquillage, costume)
+125468 Réaliser des essayages
+107046 Changer ou réparer les moteurs, boîtes de vitesse, embrayages, suspensions, démarreurs
+118361 Détecter les dysfonctionnements du véhicule et des équipements
+118362 Déterminer une solution technique de remise en état du véhicule et des équipements
+116797 Intervention de service rapide
+116708 Procédures d'entretien de véhicules
+119337 Mettre en place des actions de gestion de ressources humaines
+121041 Superviser l'activité des équipes logistiques
+110127 Superviser la planification de l'exploitation du ou des sites logistiques en fonction de l'activité (flux internes/externes, commandes spécifiques, ...)
+109987 Sélectionner et préparer l'engin de manutention, selon les caractéristiques des produits et les conditions de déplacement
+122752 Consigner des données dans un registre
+100414 Règles d'hygiène et d'asepsie
+124449 Préparation d'une commande
+100089 Techniques d'inventaire
+125739 Habilitation Agent de prévention et de sécurité
+104290 Utilisation d'équipements de télésurveillance
+121258 Accompagner des groupes lors de sorties ludiques
+103888 Concevoir le programme des activités selon les spécificités du public
+113781 Concevoir ou participer à l'élaboration de programmes d'animation
+118136 Environnement / nature
+103891 Expliquer le mode de réalisation de l'activité (consignes, démonstration, ...), et coordonner les échanges au sein du groupe
+103889 Identifier les attentes du public et l'informer sur la ou les activités d'animation et les modalités d'organisation
+118134 Patrimoine historique
+117529 Ranger l'espace d'animation
+118135 Sciences de la vie et de la terre
+120304 Suivre l'information culturelle
+120982 Suivre les besoins en équipements, matériels et consommables
+107922 Procurer à la personne des éléments de confort (rehaussage/réglage du fauteuil, du lit, ...), de réconfort et vérifier les éléments de sécurité, d'assistance médicale, ...
+119847 Actualiser les données de suivi de la livraison ou de l'enlèvement
+122112 Analyser les données d'activité d'une production
+123564 Contrôler le fonctionnement d'un outil ou équipement
+121051 Définir les modalités d'industrialisation des productions
+105632 Suivre et faire évoluer la planification de la production en fonction des flux, délais, approvisionnement, ...
+117488 Superviser le stockage des produits
+101360 Comptabilité générale
+126334 Comptabilité tiers
+122804 Etablir un état de rapprochement bancaire
+117986 Concevoir un tableau de bord
+122740 Elaborer des annexes comptables
+101597 Gestion de trésorerie
+104155 Gestion financière
+124318 Réaliser une gestion comptable
+103198 Analyser les choix techniques et définir les équipements, les matériaux en fonction des contraintes de la réglementation, du terrain, du coût
+118639 Analyser les données économiques du projet
+118275 Améliorer une procédure qualité
+119269 Concevoir des indicateurs de performance
+119317 Contrôler l'application d'une procédure
+121930 Participer à l'élaboration d'une stratégie de relation clientèle
+117162 Proposer des axes d'amélioration
+126350 Poser un revêtement mural
+103566 Préparer la peinture
+126394 Préparer un revêtement mural
+100634 Techniques de peinture
+107373 Identification des signes et du degré de la douleur
+107666 Manipulation d'équipement (lit médicalisé, lève malade, ...)
+107255 Protocoles de lutte contre les infections nosocomiales
+107376 Soins de nursing
+107667 Techniques de manipulation de patient
+120339 Déployer des applications
+123679 Mettre en oeuvre des préconisations fonctionnelles et techniques
+120340 Procéder aux phases de tests et de recettes des applications développées
+110546 Charger les colis, plis, plats cuisinés sur ou dans le véhicule
+124795 Définir un itinéraire en fonction des consignes de livraison
+125106 Enlever un colis chez un client
+125102 Livrer une commande
+124794 Vérifier des documents de livraison
+124627 Apporter des conseils sur des procédures de résolution de litiges
+123561 Conseiller un client sur des questions d'ordre juridique
+118732 Réaliser une veille documentaire (collecte, analyse etc.)
+118837 Rédiger des actes / procédures juridiques
+108118 Veille juridique
+123699 Engins de manutention, chariot de chantier (CACES R 372-9)
+121777 Fixer des éléments basse tension
+121778 Raccorder des éléments basse tension
+103495 Réaliser et poser des chemins de câbles et des conduits électriques en apparent ou en encastré
+123597 Positionner une armoire électrique de locaux domestiques ou tertiaires
+123598 Raccorder une armoire électrique aux équipements de locaux domestiques ou tertiaires
+102918 Corriger et annoter le document d'indications nécessaires à sa mise en page
+102915 Lire le texte et corriger les erreurs d'orthographe, de grammaire, de syntaxe et de typographie
+102914 Repérer les annotations de l'éditeur et de l'auteur pour intervenir sur les documents
+102919 Soumettre le document corrigé au commanditaire pour approbation
+102916 Vérifier la fiabilité des dates, données scientifiques, historiques, citations et apporter les corrections nécessaires
+107816 Accompagner la personne, suivre l'avancement du travail psychologique (points de vigilance, axes de progrès) et proposer des ajustements
+113738 Actualiser la documentation professionnelle et réglementaire
+107814 Cerner l'environnement familial, social de la personne et identifier la nature des difficultés (troubles fonctionnels, de la personnalité, de l'apprentissage)
+107815 Déterminer le besoin en accompagnement psychologique, arrêter les modalités avec la personne ou l'orienter vers un médecin, service social, personnel paramédical
+119599 Participer à des groupes de travail
+123655 Contrôler l'application d'une norme d'hygiène
+101388 Gestion des Ressources Humaines
+119508 Logiciels de gestion de stocks
+119842 Management
+120854 Mettre en place des actions correctives et préventives
+121796 Organiser un planning du personnel
+120010 Production culinaire
+119381 Réaliser un suivi budgétaire
+124524 Recruter du personnel
+124620 Vérifier les éléments d'activité et de gestion administrative du personnel
+121624 Actualiser des dossiers techniques de définition du projet
+126003 Concevoir un dossier technique de définition du projet
+118500 Elaborer des propositions techniques
+104510 Réaliser des tests et essais, analyser les résultats et déterminer les mises au point du produit, du procédé
+124959 Cuire des pièces de viennoiserie
+124451 Procédures de conditionnement
+123125 Enseigner une discipline à un groupe de personnes
+108816 Mathématiques
+108412 Préparer les cours et établir la progression pédagogique
+108491 Renseigner les supports d'évaluation scolaire et informer les proviseurs, collègues, parents, lors de conseils de classe, rencontres parents/professeurs, ...
+108490 Suivre et conseiller les élèves dans l'organisation du travail personnel
+109797 Analyser et définir les besoins de l'entreprise, des utilisateurs en matière d'organisation et de systèmes d'information et de télécoms
+109798 Concevoir le schéma directeur à partir des orientations fixées par la direction et des besoins des services utilisateurs et superviser les modalités de mise en oeuvre
+109800 Procéder au choix de réalisation, de traitement en interne ou par sous-traitance et en contrôler la conformité de réalisation
+119625 Apporter une assistance technique
+102359 Coordonner l'activité d'une équipe
+118245 Elaborer un dossier de certification
+120246 Gestion de projet
+119161 Identifier les contraintes d'un projet
+121863 Analyse des risques
+124007 Contrôler la réalisation d'une prestation
+119892 Réaliser un suivi de trésorerie
+121262 Améliorer le positionnement d'un site web
+121283 Analyser le trafic d'un site web
+115743 E-commerce
+123835 Réaliser un suivi statistique de l'activité d'un site web
+102449 Techniques d'animation web
+123836 Concevoir une Foire Aux Questions (FAQ)
+122093 Contrôler les échanges au sein des communautés d'internautes
+120734 Évaluer l'e-reputation d'un site web
+119719 Marketing des réseaux sociaux
+101859 Réglementation du commerce électronique
+120606 Webmarketing
+116706 Contrôler les réparations
+116682 Planifier des réparations
+116707 Planifier les récéptions de véhicules
+106623 Suivre et contrôler la conformité réglementaire d'utilisation de véhicules (contrôle technique, assurance, permis, temps de repos, ...)
+106631 Superviser une structure, un parc de véhicules en poids lourds, véhicules de transport de marchandises
+110428 Contrôler le déroulement des opérations maritimes à quai (assistance en escale, avitaillement navire, gestion des conteneurs, embarquement passagers)
+110435 Organiser des opérations d'accueil des plaisanciers en escale et de placement des bateaux
+110441 Organiser des opérations d'entretien des installations du port de plaisance
+124929 Boulage des pâtons
+126290 Bouler et effectuer la tourne ou le façonnage des pâtons
+119368 Conduire une fermentation
+126357 Confectionner des viennoiseries
+124928 Diviser la masse de pâte en pâtons
+101738 Sélectionner et doser les ingrédients (farine, levure, additifs, ...) pour la réalisation des pâtes à pain ou à viennoiserie, les mélanger et effectuer le pétrissage, l'abaisse
+125155 Désinfecter et décontaminer des locaux sensibles
+125150 Machine de nettoyage haute pression
+124475 Produits de nettoyage
+123049 Accompagner un élève dans l'apprentissage de la conduite
+123807 Contrôler l'application des obligations légales et réglementaires
+118744 Participer à la définition des orientations stratégiques de l'entreprise
+121641 Piloter des opérations liées à la gestion des emplois et des compétences
+109584 Superviser la gestion administrative du personnel
+120595 Fidéliser une clientèle
+121912 Mener une politique commerciale
+120581 Qualité, Hygiène, Sécurité et Environnement (QHSE)
+124780 Superviser l'activité d'un service
+122459 Suivre l'activité d'un établissement touristique
+124561 Entretenir un élément de décoration
+124544 Entretenir un espace extérieur
+122730 Préparer le sol et les plantations (épandage, semis, récolte, ...)
+122736 Réaliser un semis
+122739 Techniques d'engazonnement
+122734 Techniques de drainage
+122735 Techniques de terrassement
+123337 Alimenter une machine industrielle en matière ou produit
+106408 Détecter, localiser les défauts d'aspect (surface, coloris, ...) des produits et les trier
+106409 Monter, assembler, fixer les pièces, les éléments et vérifier la conformité fonctionnelle et esthétique de l'assemblage
+117634 Suivre l'approvisionnement
+121482 Appliquer les mortiers
+121517 Assembler des éléments d'armature de béton
+122952 Monter les murs par maçonnage d'éléments portés
+123667 Réaliser des enduits
+103767 Terrasser et niveler la fondation
+123870 Contrôler la qualité d'un document dupliqué
+102980 Préparer les documents à reproduire, sélectionner les photocopieurs, traceurs, ... et les paramétrer
+102986 Techniques de reprographie numérique
+124848 Coordonner l'activité de l'équipe pédagogique et des personnels
+123397 Gérer le budget global d'une structure
+102216 Gestion budgétaire
+123966 Préparer avec les enseignants des projets et activités pédagogiques et les superviser
+108387 Superviser la mise en oeuvre des orientations pédagogiques et éducatives et conseiller les élèves dans leur choix d'orientation
+118581 Suivre le traitement d'une commande client
+109691 Réaliser l'administration des ventes
+120695 Traiter des dossiers de contentieux (litiges, réclamations ...)
+123563 Contrôler le déroulement de travaux
+109971 Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives
+109973 Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logiques et physiques
+102176 Réaliser la maintenance de premier niveau de matériel informatique
+126253 Présenter ou identifier l'objet de l'appel (commande, vente, information, réclamation, assistance, ...)
+124611 Réaliser un suivi d'appel
+121862 Techniques de vente par téléphone
+103909 Informer les parents sur l'organisation de la structure et présenter le programme des activités aux enfants
+103910 Organiser ou adapter la séance d'animation selon le déroulement de la journée
+103911 Préparer l'espace d'animation et guider les participants tout au long de la séance
+103913 Repérer les difficultés ou problèmes d'un enfant, intervenir ou informer le directeur, les parents
+103912 Surveiller le déroulement de l'activité et veiller au respect des consignes de jeux, des règles de vie sociale
+118838 Accomplir des démarches auprès d'organismes publics ou privés pour le compte de clients
+103228 Droit public
+122754 Rédaction d'actes juridiques
+103535 Caractéristiques des profilés
+103600 Caractéristiques des verres et polycarbonates
+104906 Manipulation d'objets fragiles
+103599 Normes d'isolation phonique
+119242 Organiser un poste de travail
+124896 Préparer un produit pour son transport ou son stockage
+103315 Prise d'aplomb et de niveau
+101095 Prise de mesures
+100961 Procédés d'étanchéité
+125279 Réaliser des éléments menuisés sur mesure
+119930 Réaliser des relevés dimensionnels sur site
+103595 Techniques de pose de fermetures
+100854 Techniques de traçage
+121502 Assembler des poteaux et des tringles
+122956 Automatiser un système de fermeture menuisée existant
+104415 Automatisme
+103503 Domotique
+102717 Electricité
+103395 Equerrage
+121503 Fixer des poteaux et des tringles aux éléments maçonnés
+124881 Installer un équipement électronique
+121182 Installer une serrure et des accessoires de fermeture
+103597 Menuiserie aluminium
+122993 Poser le vitrage sur un porteur
+122998 Poser un blindage de porte ou de volet
+124884 Programmer une télécommande
+120094 Réaliser un raccordement électrique de fermeture menuisée automatisée
+100596 Techniques de maçonnerie
+124506 Définir la composition d'éléments graphiques
+124505 Modéliser des éléments graphiques
+102181 Calcul dimensionnel (surface, volume, ...)
+122863 Installer une pente d'écoulement
+106747 Plomberie
+123301 Réparer une pièce défectueuse
+125069 Cuire des produits de pâtisserie, confiseries ou pièces de chocolat
+126105 Effectuer le montage et la décoration des produits pâtissiers
+101786 Sélectionner et doser les ingrédients (farine, levure, additifs, ...) pour la réalisation des produits
+123925 Accompagner des personnes en apprentissage
+122096 Contrôler le déroulement des étapes de production et le rythme de travail
+114608 Organiser le transfert et la livraison des produits aux clients
+123917 Planifier les étapes d'une production
+107856 Réaliser le suivi professionnel de la personne en situation de travail et lui proposer des axes d'évolution ou d'orientation
+122761 Tenir informé ses équipes et ses partenaires sur l'insertion des personnes
+120376 Contrôler l'état de fonctionnement du véhicule
+110473 Organiser ou contrôler le chargement des marchandises dans le véhicule
+120377 Réaliser les opérations d'attelage
+110474 Vérifier la présence et la conformité des documents de bord et de transport
+100290 Modalités de stockage
+124902 Entretenir un équipement
+104263 Essuyer et ranger la vaisselle, la verrerie, les ustensiles de cuisine
+101904 Couper les cheveux (dégradés, effilés, piquetés)
+101902 Identifier la coiffure attendue (coupe, coloration, traitement, ...) et conseiller le client (morphologie, implantation des cheveux, ...)
+101905 Procéder à la mise en forme ou en volume des cheveux (enroulement, bouclage, brushing, ...), au coiffage, à la fixation ou brillance (laque, gel, ...)
+101903 Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing
+117520 Contrôler la gestion des stocks
+119858 Contrôler la réception des commandes
+123552 Contrôler une opération logistique
+124009 Coordonner des opérations
+119419 Logiciel d'Echange de Données Informatisées (EDI)
+109996 Organisation d'un site d'entreposage (plan de circulation, ...)
+102224 Organisation de la chaîne logistique
+124578 Planifier le traitement des commandes
+117521 Suivre la gestion des zones de stockage
+104150 Techniques de planification
+117781 Comptabilité client
+117782 Comptabilité fournisseurs
+110526 Conduire des passagers selon un parcours/circuit prédéfini
+110527 Contrôler l'état de fonctionnement du véhicule et effectuer le nettoyage
+120373 Déclencher les mesures d'urgence en cas d'incident
+110523 Préparer le véhicule, repérer le parcours et prévoir les aléas
+120031 Renseigner les documents de bord d'un véhicule
+117024 Améliorer un système d'information
+125902 Analyser les performances d'un système d'information
+115801 Mettre en place les procédures techniques d'exploitation, d'utilisation et de sécurité des équipements informatiques
+126234 Site web
+119114 Traiter l'information (collecter, classer et mettre à jour)
+115028 Analyser les données d'activité de la structure, du service et identifier des axes d'évolution
+121749 Clôturer une caisse
+104283 Environnement culturel et touristique
+118471 Langue étrangère - Anglais
+117667 Logiciel de gestion hôtelière
+123407 Traiter des litiges clients
+115055 Coordonner des programmes d'éducation thérapeutique de patients atteints de maladies chroniques
+115063 Organiser et animer des activités socio thérapeutiques (groupes de parole, ateliers, ...) auprès de patients
+120696 Réaliser le suivi des règlements clients
+124612 Renseigner des documents médico-administratifs
+124935 Dresser des plats pour le service
+124333 Changer une pièce défectueuse
+124739 Identifier les composants et les pièces défectueuses
+123770 Réaliser le montage d'équipements industriels ou d'exploitation
+106714 Réaliser les réglages de mise au point de l'équipement industriel ou d'exploitation et contrôler son fonctionnement
+123366 Gérer des ressources financières
+123632 Organiser le déroulement d'une prestation
+123726 Organiser le fonctionnement d'une structure
+119330 Réaliser la gestion des ressources humaines
+124381 Réaliser le bilan d'activité d'un service et informer les acteurs concernés
+100032 Techniques de taille de végétaux
+100064 Utilisation d'engins de tonte (autotracté/autoporté)
+120676 Utilisation d'outils de taille
+121801 Concevoir un projet éducatif
+118147 Pratique du tennis de table
+124529 Déterminer des axes d'évolution technologiques
+117256 Contractualiser une vente
+119668 Contrôler les modalités de délivrance spécifiques de certains médicaments
+107419 Identifier la demande (préparation pharmaceutique, délivrance de médicaments, de matériel, ...) du service (unité de soins, ...) ou du client/patient
+109511 Superviser les procédures de gestion administrative
+123036 Former un public
+121374 Assister techniquement une équipe
+126119 Gérer et manager une structure
+108293 Prospecter des entreprises
+120983 Réaliser la gestion administrative d'une prospection
+120675 Elaborer un budget prévisionnel
+122847 Etablir un montage financier
+122848 Etablir un montage juridique
+117146 Sélectionner des fournisseurs, sous-traitants, prestataires
+113706 Procéder aux essayages de vêtements, d'accessoires et donner un avis professionnel sur le bien-aller
+119880 Concevoir des supports d'information et de communication
+123401 Mettre à disposition du public des jeux et des jouets
+125436 Organiser un évènement
+103922 Réaliser des interventions nécessitant une habilitation BAFA
+113817 Réaliser des spectacles avec les enfants (élaboration du contenu, création de costumes, répétitions, ...) et les présenter au public
+125437 Réserver des prestations et services
+121816 Concevoir des outils de suivi qualitatif et quantitatif de l'activité
+123795 Contrôler une exploitation
+117194 Identifier des non-conformités
+108770 Vérifier le fonctionnement des équipements et des installations, identifier les anomalies et les actions préventives ou correctives
+125576 Poser des éléments de quincaillerie
+125578 Poser des vitrages sur des ouvrages en bois
+121172 Poser un ensemble menuisé
+124985 Assembler des sous-ensembles par procédé mécanique
+120068 Débiter des pièces de rotin ou de bois
+120066 Réaliser des gabarits de fabrication
+122128 Déposer une toiture
+103655 Poser des ardoises
+122208 Poser des tuiles
+103797 Réaliser la pose d'éléments de couverture
+122129 Remplacer des chevrons
+107097 Réaliser la dépose/pose et le réglage des éléments amovibles de carrosserie, des équipements , des fermetures et des garnissages
+126344 Capacité professionnelle à la conduite de taxis
+110507 Accueillir la clientèle à bord du véhicule et préciser la destination et les impératifs avec le client
+110509 Conduire et déposer le client à son lieu de destination
+119989 Déterminer un itinéraire en fonction des délais et des particularités du trafic
+123811 Habilitation Prévention et Secours Civiques de niveau 1 (PSC1)
+116663 Réaliser l'entretien du matériel
+122829 Etablir un rapport de production
+120789 Proposer des actions afin d'améliorer la productivité d'une activité
+106380 Chasser les bulles d'air au rouleau selon la géométrie et la technicité des pièces
+106376 Couper les renforts (tissus) à dimension et préparer la variété et la quantité de résine appropriées à la fabrication de la pièce
+106382 Démouler la pièce, la protéger et l'entreposer avant usinage
+106378 Disposer les feuilles de renfort par couches au contact sur le support et imprégner les renforts de résine
+106377 Enduire le support (moule, forme, modèle, ...) de cire à démouler et le revêtir d'une protection (gel-coat, tissu d'arrachage, ...)
+104071 Conseiller le client sur les différents produits (transports, prestations), effectuer la réservation et établir les documents contractuels
+124512 Contrôler des documents de voyage
+104073 Etablir les modalités de règlement d'un litige ou transmettre aux services juridiques, contentieux
+121522 Informer une clientèle sur l'offre touristique
+117253 Concevoir une proposition de contrat
+118390 Couverture santé, prévoyance
+118488 Mettre en place des actions commerciales
+117254 Présenter les clauses d'un contrat
+117314 Analyser une réponse à un appel d'offres
+124682 Renseigner des supports de suivi des achats
+117283 Suivre les conditions d'exécution d'un contrat
+122637 Fixer l'ossature d'un agencement
+122945 Monter des cloisons ou faux-plafonds
+122639 Poser des plafonds suspendus
+122638 Poser des sols
+120724 Concevoir les solutions techniques
+123879 Contrôler la conformité d'une opération de propreté
+123856 Définir des besoins en maintenance
+124573 Evaluer les besoins sanitaires d'une structure
+121808 Gérer des projets en management et inspection en environnement urbain
+123601 Contrôler la sécurité d'une installation
+106395 Surveiller le fonctionnement de la machine/ligne de conditionnement et des appareils de contrôle et ajuster en cas d'écarts
+106396 Vérifier la conformité du conditionnement des produits (étanchéité, poids, température, ...)
+121976 Déblayer un terrain ou une construction
+121978 Remblayer un terrain ou une construction
+121977 Terrasser un terrain ou une construction
+119446 Cuisiner des poissons, produits de la mer
+117917 Cuisiner des préparations culinaires
+119438 Cuisiner des viandes
+119462 Préparer des desserts
+123571 Contrôler un approvisionnement
+117629 Modalités d'approvisionnement d'une ligne de production
+107372 Aménager le lieu de vie, d'accueil des enfants et vérifier la sécurité des équipements
+124435 Concevoir un projet éducatif selon les spécificités de la structure et des publics
+107848 Organiser les activités ludiques, éducatives et accompagner les enfants pendant les activités
+124231 Réaliser un bilan d'actions
+122088 Contrôler les différentes étapes d'édition d'un ouvrage
+124857 Vérifier l'homogénéité d'une base documentaire
+124874 Rédiger la description d'un produit, d'un procédé ou d'un équipement
+124875 Synthétiser des données techniques
+107539 Psychologie
+102336 Techniques de gestion du stress
+100063 Tailler les arbres selon l'orientation de croissance ou la forme recherchée et supprimer les branches indésirables
+102050 Appliquer les produits (masque, sérum, crème) et réaliser les soins du visage, du corps, de manucure ou de maquillage
+102048 Déterminer le traitement adapté à la personne et présenter les produits, l'application des soins
+118773 Contrôler la conformité des travaux jusqu'à réception
+118025 Contrôler la réalisation d'un projet
+125994 Inventorier les contraintes de construction d'un ouvrage
+118772 Suivre l'état d'avancement des travaux jusqu'à réception
+119813 Concevoir des vitrines
+100614 Concevoir l'aménagement de boutiques
+119607 Architecture
+125142 Building Information Modelling (BIM)
+122643 Fixer les carrelages, faiënces, plinthes ou barres de seuil
+123249 Poser des carreaux sur un support
+100800 Techniques de collage
+103614 Techniques de pose de carreaux
+123250 Vérifier l'équerrage et l'aplomb
+119109 Définir les moyens humains, matériels et financiers d'un projet
+126360 Planifier les travaux
+105981 Contrôler les pièces, l'assemblage et réaliser les finitions (meulage, ébavurage, redressage)
+105979 Couper les éléments et les mettre à dimensions et en forme par pliage, cintrage, oxycoupage
+105980 Marquer, positionner les pièces, plaques, tubes et les assembler (soudure-pointage, rivet, agrafe, colle, ...)
+105978 Tracer les développés et reporter les cotes sur les matériaux (plaques, tubes, profilés, ...)
+122482 Veiller à la satisfaction d'un client
+119039 Caisse enregistreuse
+119040 Caisse informatisée
+124661 Désactiver l'antivol d'un article
+121762 Enregistrer la vente d'un article
+121848 Proposer un service complémentaire à la vente
+118069 Réaliser le comptage des fonds de caisses
+122327 Recueillir l'avis et les remarques d'un client
+102995 Règles de tenue de caisse
+118365 Affecter le personnel sur des postes de travail
+101489 Droit du travail
+126265 Modalités d'accueil
+124616 Saisir des documents juridiques
+119055 Caractéristiques du chronotachygraphe
+115620 Réaliser le chargement/déchargement d'un véhicule manuellement ou à l'aide d'engins non motorisés de manutention
+107937 Animer les activités ludiques ou aider l'enfant lors d'activités d'éveil et d'apprentissage
+107936 Procurer à l'enfant des éléments de confort, de réconfort (bercement, doudou, ...)
+123652 Consigner une installation
+106679 Repérer les éléments défectueux et procéder à leur changement lors d'interventions de dépannage ou de maintenance
+123651 Sécuriser un lieu d'intervention
+106678 Tester et contrôler les systèmes de sécurité et ajuster les réglages des éléments mécaniques, électriques, électroniques, hydrauliques, ...
+122909 Déterminer des solutions de constructions, d'installations et d'aménagements
+103122 Réaliser ou modifier les schémas, les épures, les plans des ouvrages, des installations, des aménagements selon les normes et les évolutions de contraintes
+125980 Réunir des données techniques pour la réalisation de plans
+122581 Entretenir une plantation
+122704 Identifier le type d'intervention
+122703 Identifier un lieu d'intervention
+123033 Récolter un produit agricole
+122840 Techniques de désherbage
+122839 Techniques de rempotage
+121357 Façonner les gouttières, chéneaux et tuyaux de descente
+119005 Poser des matériaux isolants
+121358 Poser les gouttières, chéneaux et tuyaux de descente
+125416 Réaliser un raccordement d'étanchéité
+103644 Repérer les particularités du montage de la toiture d'origine
+123664 Aménagement urbain
+124912 Implanter des pavés ou des dalles
+123761 Poser des éléments de voirie
+123252 Positionner des repères d'ouvrages sur un chantier
+118512 Réaliser des travaux de terrassement, de fondations
+103754 Sécuriser le chantier et ses abords (signalisation, balisage, déviations, ...) et établir les modalités de rotation des engins selon les contraintes du terrain
+117584 Commande en gros
+126012 Apporter un appui technique au chef de chantier
+126013 Présenter un dossier de chantier au chef de chantier et aux intervenants
+108845 Assister et aider les personnes ou réceptionner les secours
+121841 Télésurveillance
+115002 Réaliser le service hôtelier (réception des plateaux repas, adaptation, distribution, desserte, ...) auprès des patients/résidents
+120260 Analyser les éléments de fabrication
+109852 Architecture d'applications
+109881 Langage informatique PHP
+121028 Planifier les étapes d'un projet
+109850 Programmation informatique
+126535 Réaliser des études et développements informatiques
+124517 Rédiger une Spécification Technique de Besoin (STB)
+125960 Analyser un dossier de construction
+100038 Chiffrage/calcul de coût
+123098 Déterminer les besoins en matière première
+123099 Déterminer le volume d'heure de travail pour un ouvrage
+126016 Réaliser les relevés (dimensions, surfaces etc.) sur chantier
+125509 Effectuer la mise en service d'un équipement
+117372 Identifier les réglages des équipements et outillages
+118519 Réaliser des essais et tests de fonctionnement
+125510 Techniques de calibration
+107933 Préparer et donner un repas, une boisson à l'enfant
+107935 Procéder à la toilette et aux soins de l'enfant
+107934 Entretenir les espaces de vie et le linge de l'enfant
+107942 Intervenir auprès d'enfants de 3 à 6 ans
+117528 Réaliser un inventaire
+100144 Règles d'hygiène et de sécurité
+114182 Vérifier la température des réfrigérateurs, des chambres froides en réserve et en rayon
+116920 Concevoir un programme de formation
+122320 Corriger des évaluations (exercices, travaux pratiques, examens)
+123047 Evaluer le travail d'un stagiaire
+108634 Français Langue Etrangère -FLE-
+124338 Réaliser le bilan pédagogique d'une formation
+126284 Techniques de formation collective
+108364 Animer des groupes de paroles
+121329 Animer un atelier à thème
+122177 Conduire un atelier de formation
+108633 Intervenir auprès de publics ayant des difficultés d'analphabétisme, d'illettrisme
+124040 Présenter et promouvoir une formation
+122241 Superviser la préparation d'examens
+107830 Techniques d'animation d'atelier
+126194 Techniques de formation en présentiel
+126285 Techniques de formation individuelle
+123606 Contrôler l'état du bâti
+124804 Repérer une anomalie ou un dysfonctionnement
+100259 Utilisation de matériel de nettoyage
+106557 Contrôler la surface (dépôt, aspect, épaisseur), identifier les non-conformités et réaliser les retouches, reprises de finition
+106555 Préparer le produit (quantité, teinte, mélange, ...) et régler l'équipement d'application
+106553 Préparer les surfaces (dégraissage, masquage, sablage, ...) selon le type de support
+106554 Tracer et réaliser des marquages, masquages (prédécoupés, adhésifs, ...) sur la surface à peindre
+124982 Ajuster des éléments façonnés
+105002 Tracer, reporter les repères de coupe et d'assemblage sur les pièces
+104313 Techniques de port de plateaux/plats
+117427 Communication externe
+117426 Communication interne
+107904 Organiser les activités journalières pour la personne ou le groupe, en suivre la réalisation et intervenir lors de conflits, d'incidents
+107908 Suivre le projet socioéducatif avec la personne et lui proposer des axes d'adaptation
+107905 Transmettre et expliquer aux personnes les règles sociales et civiques au cours des activités de la vie quotidienne
+107759 Informer l'enfant sur le fonctionnement du service, de la structure ou sur les types de soins réalisés, la durée d'hospitalisation
+107762 Réaliser des actions d'éducation à la santé auprès des parents ou de professionnels de la petite enfance
+107758 Recueillir les informations sur l'environnement de vie et l'état de santé de l'enfant
+107760 Surveiller l'évolution de l'enfant, repérer des modifications de l'état de santé ou des situations à risque et informer les parents, l'équipe soignante ou les services sociaux
+121669 Établir un Plan de Prévention des Risques (PPR)
+124666 Evaluer des besoins de protection
+124667 Evaluer une situation à risques
+124094 Proposer des solutions techniques à un client
+125316 Superviser une intervention de sécurité
+121220 Contrôler et rédiger l'application des consignes
+124033 Contrôler la qualité d'un produit
+121948 Identifier les types de viandes
+101782 Modes de cuisson des aliments
+122688 Préparer une carcasse aux opérations de découpe
+121945 Réceptionner des carcasses de viande
+123013 Trier des pièces de viande
+101784 Variétés de viandes
+103515 Creuser des saignées
+121342 Démonter une ancienne installation
+114353 Installer du mobilier sanitaire
+122971 Poser des équipements pour des installations particulières
+122133 Poser un revêtement de sol ou mural
+114354 Relier des appareils (sani-broyeur, chauffe-eau, sèche-mains, ...) au tableau électrique
+124952 Cuire une pizza au four
+124950 Former une pâte à pizza
+124951 Réaliser une garniture alimentaire
+104253 Techniques de tournage de pâte à crêpe
+114853 Surveiller le flux et l'avancée de produits sur une ligne de production ou de convoyage et effectuer des interventions de déblocage et de retrait d'éléments
+124610 Effectuer la mise en fonctionnement d'une machine de production
+117907 Surveiller les paramètres d'une machine de production
+121059 Suivre l'avancement des ordres de fabrication
+121381 Adapter une stratégie de vente à une cible ou un produit
+122900 Analyser une activité  commerciale
+121508 Communiquer sur l'activité de son service auprès de sa structure
+122104 Contrôler la rentabilité et la qualité des prestations d'un réseau régional de points de vente
+122901 Déterminer les axes d'évolution d'une activité commerciale
+101399 Marketing / Mercatique
+121491 Mettre en place des actions de communication
+119335 Superviser la gestion de ressources humaines
+126343 Techniques de conduite de réunion
+115118 Entretenir les espaces de vie et le linge de la personne
+100295 Préparer les aliments et les distribuer aux animaux
+107330 Techniques de bio-nettoyage
+104546 Electrotechnique
+119506 Logiciels de Gestion de Maintenance Assistée par Ordinateur (GMAO)
+123315 Analyser des données de maintenance
+105666 Electromécanique
+104413 Electronique
+106715 Localiser la panne sur l'installation de production ou d'exploitation et déterminer les solutions techniques et les conditions de remise en état de l'équipement
+117575 Suivre les données de maintenance
+117447 Câbler un matériel
+122979 Electricité du domaine des Voix, Données, Images (VDI)
+124364 Mettre sous tension une installation électrique
+121188 Aménagement intérieur
+119008 Assurer un service après-vente
+114154 Réaliser des plans de cuisines, de salles de bains, ... et établir les devis de réalisation
+121691 Typologie du client
+107746 Pratiquer des prélèvements sanguins et bactériologiques
+107047 Tester le véhicule et réaliser la mise au point et les réglages
+107953 Informer la personne des anomalies constatées sur les mobiliers, les appareils et éventuellement y remédier
+120690 Conseiller la personne dans ses activités de la vie quotidienne
+102066 Techniques d'écoute et de la relation à la personne
+117577 Contrôler l'état des stocks
+115734 Veille réglementaire
+122090 Contrôler les bulletins de salaires du personnel
+117600 Etablir un bulletin de paie
+122958 Gestion administrative des contrats de travail
+121450 Organiser des visites, prospections ou phoning
+121937 Présenter les caractéristiques d'un produit
+123589 Informer le personnel soignant sur des produits pharmaceutiques
+124397 Appoint de fluides frigorigènes
+124394 Corriger un dysfonctionnement
+124395 Déterminer l'opération de remise en état d'une installation
+106794 Vérifier la conformité de l'installation de chauffage (chaudières, réseaux, ...)
+122119 Démonter un revêtement existant
+122118 Enlever des gravats
+107907 Réaliser les démarches socioéducatives avec ou pour la personne auprès d'organismes sociaux, médicaux, employeurs, enseignants
+107969 Organisation du système sanitaire et social
+107938 Observer le comportement et l'évolution de l'enfant et informer parents, familles, enseignants
+120281 Contrôler l'application de procédures Qualité, Hygiène, Sécurité et Environnement (QHSE)
+115158 Coordonner un ou plusieurs services
+118690 Définir la politique commerciale de l'entreprise
+104106 Vérifier les éléments d'activité du personnel
+121411 Méthode de classement et d'archivage
+124155 Mettre en forme des documents avant impression
+101622 Procéder à l'enregistrement, au tri, à l'affranchissement du courrier
+109659 Techniques de numérisation
+53228 Effectuer le service de plats à table selon des techniques spécifiques (à l'assiette, à la française, à l'anglaise, ...)
+104333 Lecture de plan de salle
+119398 Saisir une commande sur informatique
+100086 Techniques de comptage
+104336 Techniques de dressage de table
+102481 Techniques de mémorisation
+104335 Techniques de service des plats
+124701 Traiter une commande
+123352 Réaliser un appel d'offre
+125007 Mettre en marche des équipements de cuisine
+125005 Préparer un plan de travail
+124109 Prospecter un marché
+124217 Réaliser une procédure d'acquisition de terrain, de bien immobilier
+123831 Contrôler l'état d'un échantillon de laboratoire
+120941 Contrôler la conformité d'un équipement de laboratoire
+104579 Préparer des échantillons et réaliser le montage de tests et d'essais selon un protocole
+104580 Réaliser les mesures et les analyses, identifier des non-conformités et réaliser des ajustements techniques
+104581 Relever les données et les consigner dans les cahiers de laboratoire, les bases de données, les registres, les comptes rendus
+114647 Analyser les non-conformités et déterminer des mesures correctives
+124842 Contrôler des données qualité
+124680 Contrôler la conformité d'application de procédures qualité
+124843 Déterminer les évolutions et améliorations d'une démarche qualité
+123873 Mettre en place des procédures qualité
+106743 Démarrer l'installation, ajuster les réglages (paramètres de fonctionnement, de régulation, températures, pressions, ...)
+123738 Fluides frigorigènes
+106740 Positionner et fixer les groupes, condenseurs, tubes, câbles électriques, ... de l'installation frigorifique, de conditionnement d'air, ...
+105867 Utilisation d'appareils de mesure spécifique (Manifold, vacuomètre, ...)
+106742 Vérifier la conformité de l'installation, contrôler l'étanchéité et déterminer la charge de fluide frigorigène, tirer au vide l'installation et charger le circuit
+124082 Contrôler la fusion d'un métal
+106126 Surveiller le déroulement des phases de production de métaux
+101460 Réglementation des produits d'assurances
+115575 Suivre des opérations logistiques à caractère international
+102250 Techniques d'animation d'équipe
+123696 Transpalettes à conducteur porté et préparateurs de commandes au sol (CACES R 389-1)
+106465 Réglementation sur le stockage de produits spécifiques (dangereux, sous température dirigée, phyto-sanitaire, ...)
+101909 Diagnostic capillaire
+101910 Techniques de coupes de cheveux
+101915 Techniques de décoloration, de coloration de cheveux (contraste, ton sur ton, d'oxydation, ...)
+113954 Transmettre les techniques du métier ou mener des actions de sensibilisation au métier
+108599 Marché de l'emploi
+108295 Mener des actions d'orientation professionnelle
+108285 Méthodes d'élaboration de projet professionnel
+124587 Analyser un poste de travail
+119787 Animer une formation
+121492 Concevoir un plan d'action
+119590 Constituer un dossier d'aide au financement
+119589 Constituer un dossier de demande d'aide à la formation
+119762 Définir des besoins en formation
+119774 Définir des besoins en matière d'évolution professionnelle
+123907 Définir un projet individuel avec la personne
+123082 Droit de la formation
+120913 Evaluer le résultat de ses actions
+121376 Identifier des axes d'évolution
+119785 Informer des personnes sur les offres et prestations de formation
+126088 Législation de la formation continue
+108645 Proposer des actions de formation, d'orientation, d'accompagnement adaptées au profil de la personne
+100437 Procédés de formage
+125749 Réaliser les finitions d'un ouvrage
+117573 Sélectionner les pièces constitutives de l'ouvrage
+117954 Techniques d'incrustation de matériaux
+109151 Techniques de tournage
+124496 Tournage de bois
+100576 Utilisation de tour
+122218 Méthodes de transaction immobilière
+122190 Présenter les modalités d'acquisition d'un bien
+113667 Prospecter de nouveaux clients
+118648 Prospecter des biens immobiliers, des terrains
+118419 Réaliser une transaction immobilière
+101912 Coiffure enfant
+101913 Coiffure femme
+101914 Coiffure homme
+114126 Préparer et appliquer des produits colorants, décolorants (mèches, ...)
+114127 Présenter et conseiller à un client des prestations, des produits et accessoires capillaires
+122351 Vendre une prestation ou un produit
+124393 Contrôler des moyens de paiement
+119435 Logiciels de facturation hôtelière
+119527 Logiciels de réservation
+104175 Préparer et effectuer le service des petits-déjeuners en salle, en chambre
+122917 Réaliser un suivi des encaissements
+101949 Techniques de prévention et de gestion de conflits
+121971 Couper des matériaux de revêtements et de finition
+100118 Fiscalité
+121739 Réaliser un bilan comptable
+120738 Logiciel Photoshop
+124623 Sélectionner des documents et images dans une base de données
+102948 Traiter textes et images en fonction des modes et des supports d'impression
+126130 Utiliser des logiciels
+121478 Droguerie
+121477 Produits d'outillage
+121479 Quincaillerie
+121687 Revêtement de sols ou de murs
+118331 Utilisation d'outillages manuels
+121454 Ajuster les écartements de charpente
+122636 Fixer des structures et des éléments de structure en bois
+108784 Déterminer et développer les méthodes de recherche, de recueil et d'analyse de données
+108813 Etudier et analyser les données et les résultats des recherches
+117184 Réaliser des calculs
+117186 Réaliser des expériences
+117185 Réaliser des mesures
+110561 Conduire un véhicule de moins de 3,5 t et moins de 14 m3
+117470 Aménager des zones de stockage
+125986 Définir les modalités de sécurisation d'un chantier
+100011 Techniques culturales
+121798 Concevoir un projet d'actions socioculturelles
+116900 Définir une stratégie de communication
+107898 Organiser et animer des séances d'échanges avec le public ou de prévention sur la citoyenneté, la santé, l'endettement, ...
+107896 Réaliser les actions socioculturelles et en effectuer le suivi
+120370 Déterminer les phases et procédures de tests techniques et fonctionnels de programmes et applications informatiques
+109870 Langage informatique Java
+121306 Assembler des canalisations
+106269 Préparer les embouts et les bords à souder, à visser et les ajuster
+121314 Raccorder et fixer des lignes et accessoires de tuyauterie
+106214 Reporter les cotes et mesures sur les matériaux et effectuer les tracés
+122954 Ajuster le montage des pièces de charpente
+122953 Monter des pièces de charpente
+126022 Reporter les repères de coupe et d'assemblage sur des pièces de construction
+126021 Tracer au sol l'ensemble d'une structure en fonction de la fiche technique
+110109 Techniques d'import/export
+126093 Techniques de prise de notes
+116604 Ameublement (salons, chambres, ...)
+116606 Arts de la table
+121471 Décoration d'intérieur
+125965 Apporter un appui technique aux chefs d'équipe
+122721 Identifier des moyens techniques, matériels et financiers pour un chantier
+101665 Techniques de construction
+125149 Caractéristiques d'autolaveuse
+108695 Techniques de lavage mécanisées des sols
+122126 Utiliser des équipements mécanisés
+123649 Contrôler l'application d'une réglementation
+116667 Contrôler la conformité d'exploitation
+126429 Coordonner les opérations d'entretien et de maintenance
+109802 Diriger un service, une structure
+126528 Organiser les opérations d'entretien d'infrastructures et bâtis
+116647 Préconiser des programmes d'entretien
+125467 Préconiser des travaux
+118222 Techniques associées au BTP
+118878 Conseiller un client sur les améliorations et obligations réglementaires liées à un bien immobilier
+122360 Définir des actions de promotion commerciale
+122189 Présenter un bien immobilier à un client
+122361 Valoriser un bien immobilier
+124542 Eliminer par aération, désodorisation, les pollutions de lieux
+119364 Contrôler la conformité d'une production
+119355 Interpréter des données de contrôle
+123304 Collecter des déchets ménagers ou industriels
+125113 Entretenir un espace urbain
+123299 Entretenir une voie publique
+108733 Repérer les dégradations des espaces urbains, des équipements de collecte et informer l'interlocuteur concerné
+118223 Hôtellerie, restauration
+106839 Changer ou réparer un élément ou un ensemble défectueux
+103505 Règles de sécurité du travail sous tension
+110602 Constituer le dossier de transport routier et transmettre les documents aux clients ou aux conducteurs
+110078 Définir les conditions et le coût du transport avec le client et en organiser les différentes étapes (enlèvement, livraison, ...)
+119102 Établir une documentation de transport
+118601 Informer le client sur les modalités de transport
+122164 Proposer une solution commerciale appropriée
+115312 Assister (réception, réchauffage de plats, lavage de linge, ...) les personnels de restaurant de collectivité
+106161 Former les matériaux par usinage, modelage, découpage, formage, sculpture, ...
+123402 Installer des éléments de structures métalliques
+123602 Marquer les éléments d'une structure métallique
+123723 Formation Continue Obligatoire (FCO)
+119260 Maintenance de premier niveau
+104084 Réglementation du transport de marchandises
+110562 Conduire un véhicule de moins de 3,5 t et plus de 14 m3
+125109 Monter du mobilier
+123660 Ranger des produits ou marchandises selon leurs date de validité et les conditions de conservation
+107954 Repassage
+121793 Concevoir un plan d'action de projet
+122277 Conduire un projet de développement
+123182 Animer une réunion
+117084 Constituer et présenter un dossier de demande de financement
+122097 Améliorer l'aménagement des postes de travail
+120206 Réaliser une recherche documentaire
+107916 Conseiller la personne sur des aides techniques (aides visuelles, déambulateur) ou installer le matériel (pose de barrière de protection, réglage de hauteur de table)
+115113 Dispenser des soins d'hygiène et de confort, distribuer les médicaments ou en vérifier la prise par les personnes
+107917 Echanger avec la personne sur son ressenti (mal-être, satisfaction, ...) et l'orienter vers un médecin, assistant de service social, ...
+120265 Concevoir les nomenclatures des schémas et plans
+110426 Organiser et planifier l'affectation des équipements portuaires ou maritimes (portiques, navires, ...)
+110320 Réglementation portuaire
+110429 Suivre et contrôler la réalisation du transport, identifier les anomalies et mettre en place les mesures correctives
+103205 Intervenir en efficacité énergétique
+103207 Intervenir en génie électrique
+118828 Technologie du bâtiment
+102229 Intervenir auprès d'une clientèle d'entreprises
+101397 Logiciels de modélisation et simulation
+122425 Méthodes et outils de résolution de problèmes
+113748 Concevoir des modèles théoriques (calcul, simulation, modélisation)
+123905 Accueillir des patients
+123904 Planifier des rendez-vous médicaux selon le type d'intervention et le degré d'urgence
+124531 Tenir informé le praticien des activités
+124083 Réaliser des actions de communication interne
+121724 Collecter les résultats d'une enquête
+109484 Compléter les formulaires, les questionnaires et les compte rendus
+123367 Guider une personne lors d'une enquête
+123369 Identifier les cibles d'une enquête
+123370 Informer les cibles sur la nature et le déroulement d'une enquête
+121957 Réaliser des ouvertures de portes ou fenêtres
+113754 Réaliser un mur en pierres
+104301 Stratégie commerciale
+115131 Préparer les aliments (épluchage, lavage, ...) ou réaliser le repas de la personne
+115130 Réaliser des courses alimentaires ou d'agrément selon des consignes
+107925 Règles de sécurité domestique
+101175 Techniques de repassage
+116382 Compléter les documents médico-administratifs (feuille de soins, déclaration de grossesse)
+107198 Déterminer les besoins thérapeutiques et réaliser les soins médicaux
+107199 Réaliser la prescription médicale, expliquer les modalités de traitement au patient et le conseiller sur l'hygiène de vie
+107197 Recenser les symptômes, les dysfonctionnements, cerner l'environnement de vie du patient et procéder à l'examen clinique
+100113 Logiciels de gestion de base de données
+119912 Analyser les résultats des ventes
+120685 Organisation et planification des activités
+118745 Participer à la définition d'une stratégie commerciale et marketing
+124030 Présenter des arrêtés de comptes
+122580 Elaguer les branches d'un arbre
+125314 Système de rétention d'un arbre
+115839 Démarche qualité
+121610 Réaliser un plan qualité
+101127 Assembler (collage, couture) les pièces de l'article (tige, soufflet) manuellement ou à l'aide d'une machine
+101126 Réaliser les opérations de coupe de matériaux (positionnement de gabarit, ...) manuellement ou à l'aide d'une machine
+101128 Réaliser les opérations de finition sur les pièces et articles montés (coupe de fil, teinte de tranche, nourriture du cuir, ...)
+125755 Réaliser manuellement un gabarit, patron
+101129 Vérifier la conformité des pièces/articles façonnés (aspect de teinte, régularité des coutures, ...) et procéder aux actions correctives
+125006 Préparer des ustensiles de cuisine
+116574 Charcuterie
+116578 Fromagerie, crèmerie
+106808 Diagnostiquer et localiser une panne ou une défaillance d'origine électrique ou les non-conformités réglementaires
+103620 Poser des revêtements de matériaux en marbre
+121518 Positionner des éléments d'armature de béton
+103771 Réaliser et poser les coffrages et couler les éléments en béton
+122498 Proposer des produits d'assurance à un client
+124674 Contrôler la conformité contractuelle d'une affaire
+124569 Evacuer des déchets courants
+122800 Installer une structure de forage
+123774 Réaliser un avant-trou en fonction du diamètre à obtenir (perçage, forage)
+104314 Caractéristiques des alcools
+114534 Réaliser des cocktails à la demande du client
+103531 Réaliser et fixer des huisseries, encadrements et montants en fonction des réservations ou des ouvertures
+123812 Filtrer des appels téléphoniques
+123813 Organiser le planning d'un responsable, collaborateur
+120991 Rédiger des supports de communication interne (rapport, compte rendu, note...)
+104425 Hydraulique
+106259 Assembler et souder différents éléments entre eux ou sur le support
+126180 Contrôler la conformité des soudures, des constructions et assemblages
+106258 Préparer les joints et positionner les pièces, plaques, tubes, profilés entre eux ou sur un support
+116477 Indicateurs de suivi d'activité
+104508 Définir les méthodes, les moyens d'études et de conception et leur mise en oeuvre
+120672 Réaliser des supports techniques
+122733 Effectuer des ajustements budgétaires
+124029 Présenter un budget
+109420 Superviser les procédures de gestion financière
+124447 E-procurement
+121688 Logiciel de gestion clients
+121913 Organiser une animation promotionnelle
+104737 Consigner les résultats de mesures et d'analyses et renseigner les supports de suivi
+104736 Mesurer et analyser, relever les données et les transmettre
+104734 Préparer les produits et les appareils de mesures et d'analyses et contrôler leur conformité d'étalonnage et de fonctionnement
+104735 Réceptionner les échantillons ou effectuer les prélèvements de matières, de produits
+115119 Vérifier la prise de médicaments par la personne en fonction de la prescription médicale
+123895 Accompagner des familles fragilisées
+124903 Installer des appareils extincteurs d'incendie
+103501 Utilisation d'appareils de mesure électrique (multimètre, ...)
+121240 Matérialiser l'implantation du chantier par des repères
+118771 Mettre à jour des plans d'infrastructures et de réseaux divers
+118764 Réaliser des levés topographiques de terrains
+118763 Réaliser des mesures topométriques
+118770 Réaliser des plans d'infrastructures et de réseaux divers
+121539 Réaliser l'analyse d'une marque
+121538 Réaliser l'analyse d'un produit
+118730 Réaliser une étude de marché
+124637 Sélectionner des canaux de communication
+121475 Matériel médical
+121476 Matériel paramédical
+124594 Contrôler la conformité des documents réceptionnés
+124373 Numériser un document
+123475 Organiser un rétro-planning
+117318 Lancer un appel d'offre
+126089 Procédures d'appels d'offres
+117708 Répondre à un appel d'offre
+123201 Facturer une prestation
+107388 Installer le patient dans le véhicule sanitaire selon la préconisation médicale, et lui apporter une assistance
+117476 Trier et évacuer des déchets
+107387 Vérifier le fonctionnement des équipements du véhicule sanitaire, repérer les dysfonctionnements et informer le responsable, le mécanicien
+126374 Assurer la maintenance de premier niveau du véhicule
+119180 Établir un rapport d'intervention
+110028 Lecture de carte routière
+121002 Maintenance de véhicules
+126214 Réaliser l'entretien du véhicule
+110550 Règles de circulation et de stationnement en agglomération
+126124 Utilisation d'appareils de lecture optique de codes-barres (pistolet, flasheur, ...)
+120372 Utilisation de matériel de navigation
+115132 Garder des enfants scolarisés et les accompagner dans leurs activités quotidiennes (trajet maison-école, repas/goûter, sorties, ...)
+123596 Contrôler des données d'instrumentation
+118673 Maintenance préventive de deuxième niveau
+123960 Mener des actions de suivi social spécifiques à une structure et à un public
+123990 Déterminer un mode d'intervention socio-éducatif avec la personne
+107858 Identification de signes d'addiction
+115104 Identifier des problèmes ou des risques sociaux sur un secteur géographique et proposer des solutions individuelles ou collectives
+107906 Informer et sensibiliser la personne ou le groupe aux thèmes de la violence, la toxicomanie, la sexualité, l'illettrisme et apporter un appui personnalisé par des conseils, du soutien
+115112 Réaliser des actions de développement ou de maintien du lien social ou familial
+123605 Conditionner un produit selon les caractéristiques et les modes de transport
+124407 Déménager des charges lourdes
+124347 Démonter un équipement
+126111 Faire un état des éléments à déménager et signaler les anomalies au client
+110012 Sélectionner et charger le matériel de déménagement en fonction de la commande
+106758 Identifier les phases d'intervention à partir des informations du diagnostic help desk, de la hot line, des dossiers constructeur
+109763 Système d'exploitation Linux
+109764 Système d'exploitation Windows
+121602 Dimensionner des supports
+126513 Cuisiner des légumes, des fruits
+119439 Cuisiner des sauces
+123522 Conditionner un produit alimentaire
+123311 Analyser un dysfonctionnement ou une non-conformité
+120271 Déterminer les causes de dysfonctionnements
+124157 Effectuer des opérations de contrôle de conformité
+122630 Définir les plans d'actions annuels d'une entreprise
+121364 Déterminer le potentiel d'un client ou prospect
+118907 Réaliser des préparations pharmaceutiques
+101341 Droit de la sécurité sociale
+101314 Droit des assurances
+108336 Droit fiscal
+118377 Produits d'assurance prévoyance
+118374 Produits d'assurance retraite
+118376 Produits d'assurance santé
+118381 Produits d'assurance vie
+118264 Contrôler l'application des procédures de fabrication
+122631 Définir des procédés de fabrication
+118530 Élaborer un dossier d'industrialisation
+120632 Elaborer un dossier de fabrication
+104672 Organiser et coordonner le projet de fabrication ou d'industrialisation
+120261 Définir les procédés, moyens et modes opératoires
+122852 Etablir un document de fabrication
+123094 Évaluer des coûts de fabrication
+118098 Produits d'alimentation
+121319 Actualiser les documents, les informations et fonds documentaires d'une activité
+123390 Mettre à disposition d'un public des fonds documentaires
+123388 Rechercher des informations documentaires
+123389 Sélectionner des informations documentaires
+122760 Identifier une intervention à partir d'un dossier technique
+106827 Principes de fonctionnement d'un moteur
+107021 Tôlerie
+100429 Anatomie animale
+122410 Stockage de produits alimentaires
+107316 Bonnes Pratiques de Pharmacie Hospitalière -B.P.P.H-
+102294 Classification des médicaments
+107310 Délivrer les médicaments au client/patient ou au personnel soignant et informer sur les modalités de la prescription
+107309 Vérifier la recevabilité de la prescription, repérer les incompatibilités, contre-indications, ... et contacter le prescripteur si nécessaire
+109642 Concevoir des indicateurs
+121322 Evaluer la performance d'une structure
+124766 Suivre l'évolution des résultats financiers d'une structure
+122413 Conditionnement des aliments
+104214 Utilisation de four (à chaleur tournante, à air pulsé, ...)
+104215 Utilisation de plaques de cuisson
+116690 Contrats d'entretien
+116689 Contrats de maintenance
+117352 Classer les données collectées d'une enquête
+123953 Préparer l'intervention, le matériel et les supports d'une enquête
+117353 Transmettre les résultats d'une enquête
+124321 Planifier les travaux d'entretien d'un site
+100906 Ergonomie
+104410 Assister techniquement les services de l'entreprise ou les clients
+124689 Définir un concept créatif en fonction du support choisi
+124086 Présenter un projet à des clients ou à des collaborateurs
+126389 Contrôler l'entretien du patrimoine d'un structure et organiser les interventions (maintenance, suivi des travaux)
+126426 Charger le linge dans les machines et enclencher le programme
+125491 Préparer un article en vue du repassage
+101974 Repasser du textile (vêtements, linge)
+101962 Trier les articles et déterminer les modes de nettoyage (à l'eau, à sec, avec détachage, ...)
+121049 Apporter un appui technique aux services qualité, maintenance, méthodes
+122467 Assurer le suivi d'un client
